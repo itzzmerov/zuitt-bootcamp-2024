@@ -3,3 +3,17 @@
     font-weight: 400;
     font-style: normal;
 }
+
+h1,
+p {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+#profile {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
