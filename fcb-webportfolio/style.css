@@ -24,3 +24,11 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
+
+#landing {
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
